@@ -1,0 +1,3 @@
+The program needs 1 external library to run at all. The link will be provided below.
+
+dirent - https://github.com/tronkko/dirent/blob/master/include/dirent.h

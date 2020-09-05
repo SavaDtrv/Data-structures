@@ -1,0 +1,8 @@
+The program needs 2 external libraries to run at all. The links will be provided below.
+
+dirent - https://github.com/tronkko/dirent/blob/master/include/dirent.h
+
+md5 - https://bobobobo.wordpress.com/2010/10/17/md5-c-implementation/
+
+md5.h (no cpp) is an old version of the current md5 you can find around the network, 
+so it was hard to find.
